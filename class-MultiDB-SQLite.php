@@ -1,5 +1,9 @@
 <?php
 
+/*
+	VERSION 0.2
+*/
+
 require_once( 'class-MultiDB.php' );
 
 class MultiDB_SQLite3 extends MultiDB {

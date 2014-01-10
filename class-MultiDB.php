@@ -1,5 +1,9 @@
 <?php
 
+/*
+	VERSION 0.2
+*/
+
 abstract class MultiDB {
 
 	protected	$db;							#	Handle to Database connection
